@@ -4,7 +4,7 @@ Nesse desafio, deveriamos criar uma aplicação para treinar o que apren
 
 a aplicação tinha como objetivo criarmos um hook de carrinho de compras. teriamos acesso a duas páginas, um componente e um hook para implementar as funcionalidades pedidas no desafio:
 
-as funcionalidades era: 
+As funcionalidades eram: 
 - Adicionar um novo produto ao carrinho;
 - Remover um produto do carrinho;
 - Alterar a quantidade de um produto no carrinho;
