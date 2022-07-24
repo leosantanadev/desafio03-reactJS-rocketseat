@@ -1,8 +1,8 @@
-# 💻 Sobre o desafio
+# 💻 Desafio Rocketseat
 
-Nesse desafio, deveriamos criar uma aplicação para treinar o que aprendemoos até então em ReactJS
+Aplicação de um pequeno E-commerce de tenis
 
-a aplicação tinha como objetivo criarmos um hook de carrinho de compras. teriamos acesso a duas páginas, um componente e um hook para implementar as funcionalidades pedidas no desafio:
+No desafio tinhamos como objetivo criar um hook de carrinho de compras. tinhamos acesso para modificação duas páginas, um componente e um hook para implementar as funcionalidades pedidas no desafio:
 
 As funcionalidades eram: 
 - Adicionar um novo produto ao carrinho;
@@ -12,3 +12,7 @@ As funcionalidades eram:
 - Validação de estoque;
 - Exibição de mensagens de erro;
 - Entre outros.
+
+Mais algumas ferramentas usadas:
+- Tostify
+- localStorage API
